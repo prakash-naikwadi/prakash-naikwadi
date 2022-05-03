@@ -31,7 +31,8 @@
 
 <table>
   <tr>
-
+    <td><img src="https://github-readme-stats.vercel.app/api?username=prakash-naikwadi&show_icons=true&theme=dark&locale=en" alt="prakash-naikwadi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-naikwadi&show_icons=true&theme=dark&locale=en&layout=compact" alt="prakash-naikwadi" /></td>
   </tr>
 </table>
 
