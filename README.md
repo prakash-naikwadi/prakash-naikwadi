@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/prakash-naikwadi-6b9a60182/" target="_blank"> Prakash Naikwadi </a> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-naikwadi&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-naikwadi" /> </p>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+JavaScript+React%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Software+Engineer+@RBTech+%3A)" /> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
